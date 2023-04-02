@@ -1,0 +1,9 @@
+"""
+    for i in range(size_voc):
+        for j in range(size_voc):
+            for i_doc in range(size_doc):
+                if BoW[i_doc][j] > 0 and BoW[i_doc][i] > 0: 
+                    TCOR[i,j] +=1        
+            if TCOR[i,j] > 0:
+                co_occur[i] +=1
+    """

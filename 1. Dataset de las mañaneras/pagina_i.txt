@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title>Transcripciones &#8211; AMLO</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="AMLO &raquo; Feed" href="https://lopezobrador.org.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="AMLO &raquo; Feed de los comentarios" href="https://lopezobrador.org.mx/comments/feed/" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/lopezobrador.org.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://lopezobrador.org.mx/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://lopezobrador.org.mx/wp-content/themes/ever/assets/css/bootstrap.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ionicons-css' href='https://lopezobrador.org.mx/wp-content/themes/ever/assets/css/ionicons.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ever-style-css' href='https://lopezobrador.org.mx/wp-content/themes/ever/style.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ever-responsive-css' href='https://lopezobrador.org.mx/wp-content/themes/ever/assets/css/responsive.css?ver=5.8.1' type='text/css' media='all' />
+<style id='ever-responsive-inline-css' type='text/css'>
+body{color: #333;font-family: "Roboto", Arial, Helvetica, sans-serif;font-size: 16px;font-weight: 400;background-color:#e6e6e6;}h1, h2, h3, h4, h5, h6, blockquote, .tw-pagination, aside.widget ul, body .btn, .tw-footer, .error-desc{font-family: "Montserrat";}h1, h2, h3, h4, h5, h6, blockquote, .tw-pagination, aside.widget ul, body .btn{font-weight: 700;}.sf-menu > li > a{font-family: "Montserrat";font-size: 13px;font-weight: 700;text-transform: uppercase;}.sf-menu ul{font-family: "Montserrat";font-size: 11px;font-weight: 400;text-transform: uppercase;}.tw-meta{font-family: "Roboto";font-size: 11px;font-weight: 400;text-transform: none;}::selection{
+            background-color: #e22524;
+        }::moz-selection{
+            background-color: #e22524;
+        }button:hover,
+            input[type="button"]:hover,
+            .flip-box .side-b.button-search,
+            .comment-form .flip-box input[type="submit"].side-b,
+            .mc4wp-form-fields .flip-box input[type="submit"].side-b,
+            .wpcf7-form input[type="submit"].side-b,
+            .flip-box .side-b{
+            background-color: #e22524;
+            border-color: #e22524;
+        }.tw-contact i,
+        .entry-title a:hover,
+        .tw-blog article.sticky .entry-post:before{
+            color: #e22524;
+        }#scroll-bar,
+        .owl-theme .owl-controls .owl-dot.active span,
+        .owl-theme .owl-controls.clickable .owl-dot:hover span,
+        .owl-carousel-meta .owl-prev:hover,
+        .owl-carousel-meta .owl-next:hover,
+        .tw-mobile-menu .owl-carousel .owl-dot.active span,
+        .tw-mobile-menu .owl-carousel .owl-dot:hover span{
+            background-color: #e22524;
+        }.entry-cats a, h3.widget-title >span,
+        .tw-blog article.sticky .entry-post{
+            border-color: #e22524;
+        }a{color: #808080;}a:hover{color: #999;}h1, h2, h3, h4, h5, h6, article .entry-author a, aside.widget ul li a, .tw-pagination a:hover{
+            color: #151515;
+        }.tw-meta, .entry-cats, .wp-caption p.wp-caption-text, .tw-pagination a, .feature-area .feature-title > p{
+            color: #999;
+        }h1{}h2{}h3{}h4{}h5{}h6{}.header-small .tw-menu-container, .tw-menu-container, .header-area.layout-2 .tw-logo{background-color:#fff;}h1.site-name, .tw-header-meta i, .tw-menu .sf-menu{color:#151515;} .nav-icon span{background-color:#151515}.tw-header-meta i:hover, .sf-menu > li:hover > a{color:#262626;} .nav-icon:hover span{background-color:#262626}.sf-menu ul{background-color:#151515;}.sf-menu ul, .sf-menu .sub-menu .menu-item-has-children:after{color:#fff;}
+.tw-menu .page_item > ul.children li:hover > a, .tw-menu .sub-menu li:hover > a, .sf-menu .sub-menu .menu-item-has-children:hover:after{color:#fff;}
+.tw-menu .page_item > ul.children li:hover > a, .tw-menu .sub-menu li:hover > a{background-color:#262626;}.tw-footer, .tw-footer .footer-menu a{color:#999;}.tw-footer a{color:#999;}.tw-footer a:hover{color:#151515;}.sf-menu > li > a{line-height: 70px;}.tw-menu-container, .header-clone, .tw-mobile-menu .tw-logo{height:70px;}.tw-header-meta{width: 200px;}.tw-slider .slider-item{height: 500px;}@media (max-width: 1199px){ .tw-slider .slider-item{height: 401.7094017094px;}}table, td, th, .wp-caption p.wp-caption-text, .content-row, .comment-text, .widget ul li, .tw-footer{border-color:#e6e6e6;}.header-area.layout-2 .tw-logo{border-color: rgba(230,230,230,0.5);}input, input[type="tel"], input[type="date"], input[type="text"], input[type="password"], input[type="email"], textarea, select{border-color: rgba(230,230,230,0.6);}input, input[type="tel"], input[type="date"], input[type="text"], input[type="password"], input[type="email"], textarea, select,.tagcloud > a, .entry-tags a, .tw-author-box, .nextprev-postlink-container, .search-opened .tw-header-meta form.searchform input{background-color:#fafafa;}.tw-blog:not(.grid-blog) article, .tw-blog.grid-blog article .entry-post,.single-content, .sidebar-area .widget-item, .tw-pagination{background-color:#fff;}.page-content > p a, .entry-content > p:not(.more-link) a{color:#151515;}.page-content > p a:hover, .entry-content > p:not(.more-link) a:hover{color:#999;}
+</style>
+<link rel='stylesheet' id='magnific-popup-css' href='https://lopezobrador.org.mx/wp-content/themes/ever/assets/css/magnific-popup.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ever-google-font-css' href='//fonts.googleapis.com/css?family=Roboto%3A400%2C600%2C700%7CMontserrat%3A400%2C700&#038;ver=1.0.0' type='text/css' media='all' />
+<script type='text/javascript' id='jquery-core-js-extra'>
+/* <![CDATA[ */
+var SS_DATA = {"ajaxurl":"https:\/\/lopezobrador.org.mx\/wp-admin\/admin-ajax.php"};
+var ever_script_data = {"gif_auto":"1","slider_auto":"","slider_delay":"3000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lopezobrador.org.mx/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://lopezobrador.org.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://lopezobrador.org.mx/wp-content/themes/ever/assets/js/functions.js?ver=5.8.1' id='ever-functions-js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://lopezobrador.org.mx/wp-content/themes/ever/assets/js/html5.js?ver=3.6.0' id='html5-js'></script>
+<![endif]-->
+<script type='text/javascript' src='https://lopezobrador.org.mx/wp-content/themes/ever/assets/js/jquery.magnific-popup.min.js?ver=5.8.1' id='magnific-popup-js'></script>
+<script type='text/javascript' src='https://lopezobrador.org.mx/wp-content/themes/ever/assets/js/waves-script.js?ver=5.8.1' id='ever-script-js'></script>
+<link rel="https://api.w.org/" href="https://lopezobrador.org.mx/wp-json/" /><link rel="alternate" type="application/json" href="https://lopezobrador.org.mx/wp-json/wp/v2/pages/112048" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://lopezobrador.org.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://lopezobrador.org.mx/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.8.1" />
+<link rel="canonical" href="https://lopezobrador.org.mx/transcripciones/" />
+<link rel='shortlink' href='https://lopezobrador.org.mx/?p=112048' />
+<link rel="alternate" type="application/json+oembed" href="https://lopezobrador.org.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flopezobrador.org.mx%2Ftranscripciones%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://lopezobrador.org.mx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flopezobrador.org.mx%2Ftranscripciones%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.15.0" /><link rel="icon" href="https://lopezobrador.org.mx/wp-content/uploads/2021/09/cropped-Presidente-AMLO-perfil-2021-publi-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://lopezobrador.org.mx/wp-content/uploads/2021/09/cropped-Presidente-AMLO-perfil-2021-publi-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://lopezobrador.org.mx/wp-content/uploads/2021/09/cropped-Presidente-AMLO-perfil-2021-publi-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://lopezobrador.org.mx/wp-content/uploads/2021/09/cropped-Presidente-AMLO-perfil-2021-publi-270x270.jpg" />
+<style type="text/css" id="wp-custom-css">
+			.tw-footer>img:first-child{display:none;}		</style>
+</head>
+<body class="page-template page-template-page-rowbuilder page-template-page-rowbuilder-php page page-id-112048">
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-104192343-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-104192343-1');
+</script>
+<div class="tw-mobile-menu">
+<div class="tw-logo"><h1 class="site-name"><a class="logo" href="https://lopezobrador.org.mx/">AMLO</a></h1><div class="nav-icon-container"><div class="nav-icon tw-mdl-close active"><span></span><span></span><span></span></div></div></div> <nav><ul id="menu-menuprincipal" class="sf-mobile-menu clearfix"><li id="menu-item-130255" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-130255"><a href="https://coronavirus.gob.mx/">Coronavirus COVID-19</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28"><a href="https://lopezobrador.org.mx/secciones/comunicados/">Sala de Prensa</a></li>
+<li id="menu-item-135275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135275"><a href="https://lopezobrador.org.mx/gabinete-2018-2024/">Gabinete</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://lopezobrador.org.mx/semblanza/">Biografía</a></li>
+<li id="menu-item-112357" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112357"><a href="https://lopezobrador.org.mx/conferencia-en-vivo/">Conferencia en vivo</a></li>
+</ul></nav>
+<aside class="widget widget_search" id="search-5"><div class="widget-item"><form method="get" class="searchform" action="https://lopezobrador.org.mx/">
+<div class="input">
+<input type="text" value="" name="s" placeholder="Search..." />
+<button type="submit" class="button-search"><i class="ion-search"></i></button>
+</div>
+</form></div></aside><aside class="widget widget_block widget_media_image" id="block-5"><div class="widget-item">
+<figure class="wp-block-image size-full"><a href="https://lopezobrador.org.mx/tercer-informe-de-gobierno/" target="_blank"><img loading="lazy" width="700" height="238" src="https://lopezobrador.org.mx/wp-content/uploads/2021/09/Tercer-Informe-relieve.png" alt="" class="wp-image-148148" srcset="https://lopezobrador.org.mx/wp-content/uploads/2021/09/Tercer-Informe-relieve.png 700w, https://lopezobrador.org.mx/wp-content/uploads/2021/09/Tercer-Informe-relieve-300x102.png 300w, https://lopezobrador.org.mx/wp-content/uploads/2021/09/Tercer-Informe-relieve-400x136.png 400w" sizes="(max-width: 700px) 100vw, 700px" /></a></figure>
+</div></aside>
+<aside class="widget widget_recent_entries" id="recent-posts-2"><div class="widget-item">
+<h3 class="widget-title"><span>Noticias</span></h3>
+<ul>
+<li>
+<a href="https://lopezobrador.org.mx/2023/02/17/sonora-es-de-los-estados-mas-atendidos-por-el-gobierno-de-mexico-afirma-presidente/">Sonora es de los estados más atendidos por el Gobierno de México, afirma presidente</a>
+<span class="post-date">febrero 17, 2023</span>
+</li>
+<li>
+<a href="https://lopezobrador.org.mx/2023/02/17/conferencia-de-prensa-matutina-desde-sonora-viernes-17-de-febrero-2023/">Conferencia de prensa matutina, desde Sonora. Viernes 17 de febrero 2023</a>
+<span class="post-date">febrero 17, 2023</span>
+</li>
+<li>
+<a href="https://lopezobrador.org.mx/2023/02/16/reunion-estatal-del-banco-del-bienestar-en-sonora/">Reunión estatal del Banco del Bienestar en Sonora</a>
+<span class="post-date">febrero 16, 2023</span>
+</li>
+</ul>
+</div></aside> </div>
+<div class="tw-mdl-overlay-close"></div>
+<div class="theme-layout">
+
+<header class="header-area">
+<div class="tw-menu-container">
+<div class="tw-header-meta">
+<div class="tw-logo"><h1 class="site-name"><a class="logo" href="https://lopezobrador.org.mx/">AMLO</a></h1></div> </div>
+<nav class="tw-menu">
+<ul id="menu-menuprincipal-1" class="sf-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-130255"><a href="https://coronavirus.gob.mx/">Coronavirus COVID-19</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28"><a href="https://lopezobrador.org.mx/secciones/comunicados/">Sala de Prensa</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135275"><a href="https://lopezobrador.org.mx/gabinete-2018-2024/">Gabinete</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://lopezobrador.org.mx/semblanza/">Biografía</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112357"><a href="https://lopezobrador.org.mx/conferencia-en-vivo/">Conferencia en vivo</a></li>
+</ul> <div class="nav-icon tw-modal-btn" data-modal=".tw-mobile-menu">
+<span></span>
+<span></span>
+<span></span>
+</div>
+</nav>
+</div>
+<div class="header-clone"></div>
+</header> 
+<div class="ever-container container"><div class="row">
+<div class="content-area col-md-12">
+<div class="blog-section"><div class="tw-blog grid-blog tw-isotope-container clearfix"><div class="row isotope-container"> <article id="post-165274" class="col-md-4 post-165274 post type-post status-publish format-standard has-post-thumbnail hentry category-audio category-boletines category-comunicados category-version-estenografica category-videos"><div class="entry-media"><div class="tw-thumbnail"><img src="https://lopezobrador.org.mx/wp-content/uploads/2023/02/2023-02-16-Presidente-AMLO-Inauguracion-de-vialidad-principal-al-AIFA-Estado-de-Mexico-Foto-07-400x266.jpg" alt="2023-02-16 Presidente AMLO - Inauguracion de vialidad principal al AIFA - Estado de Mexico - Foto 07"><div class="image-overlay tw-middle"><div class="image-overlay-inner"><a href="https://lopezobrador.org.mx/2023/02/16/version-estenografica-inauguracion-de-vialidad-principal-al-aifa-camino-tonanitla-desde-nextlalpan-estado-de-mexico/" title="Versión estenográfica. Inauguración de vialidad principal al AIFA; camino Tonanitla, desde Nextlalpan, Estado de México" class="overlay-icon"></a></div></div></div></div>
+<div class="entry-post">
+<div class="entry-cats"><a href="https://lopezobrador.org.mx/secciones/multimedia/audio/" title="View all posts in Audio">Audio</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/boletines/" title="View all posts in Boletines">Boletines</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/comunicados/" title="View all posts in Comunicados">Comunicados</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/multimedia/videos/" title="View all posts in Videos">Videos</a><span>, </span></div><h2 class="entry-title"><a href="https://lopezobrador.org.mx/2023/02/16/version-estenografica-inauguracion-de-vialidad-principal-al-aifa-camino-tonanitla-desde-nextlalpan-estado-de-mexico/">Versión estenográfica. Inauguración de vialidad principal al AIFA; camino Tonanitla, desde Nextlalpan, Estado de México</a></h2><div class="tw-meta"><span class="entry-author">by&nbsp;<a href="https://lopezobrador.org.mx/author/joseraul/" title="Entradas de EDITOR" rel="author">EDITOR</a></span><span class="entry-date"><a href="https://lopezobrador.org.mx/2023/02/16/version-estenografica-inauguracion-de-vialidad-principal-al-aifa-camino-tonanitla-desde-nextlalpan-estado-de-mexico/">febrero 16, 2023</a></span></div><div class="entry-content clearfix"><p>Amigas, amigos, presidentes municipales de estos cinco municipios del Estado de México que ayudaron tanto para la construcción de esta autopista, las autoridades […]</p>
+</div> </div>
+</article> <article id="post-165246" class="col-md-4 post-165246 post type-post status-publish format-standard has-post-thumbnail hentry category-audio category-boletines category-comunicados category-version-estenografica category-videos"><div class="entry-media"><div class="tw-thumbnail"><img src="https://lopezobrador.org.mx/wp-content/uploads/2023/02/2023-02-16-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-05-400x266.jpg" alt="2023-02-16 Conferencia de prensa matutina - Palacio Nacional - Foto 05"><div class="image-overlay tw-middle"><div class="image-overlay-inner"><a href="https://lopezobrador.org.mx/2023/02/16/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-912/" title="Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador" class="overlay-icon"></a></div></div></div></div>
+<div class="entry-post">
+<div class="entry-cats"><a href="https://lopezobrador.org.mx/secciones/multimedia/audio/" title="View all posts in Audio">Audio</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/boletines/" title="View all posts in Boletines">Boletines</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/comunicados/" title="View all posts in Comunicados">Comunicados</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/multimedia/videos/" title="View all posts in Videos">Videos</a><span>, </span></div><h2 class="entry-title"><a href="https://lopezobrador.org.mx/2023/02/16/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-912/">Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</a></h2><div class="tw-meta"><span class="entry-author">by&nbsp;<a href="https://lopezobrador.org.mx/author/joseraul/" title="Entradas de EDITOR" rel="author">EDITOR</a></span><span class="entry-date"><a href="https://lopezobrador.org.mx/2023/02/16/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-912/">febrero 16, 2023</a></span></div><div class="entry-content clearfix"><p>Buenos días. Ánimo, ánimo. Bueno, pues vamos a tratar sobre dos temas muy importantes: El primero es la decisión que se ha tomado de destinar terrenos de Fonatur para que se [&#8230;]</p>
+</div> </div>
+</article> <article id="post-165225" class="col-md-4 post-165225 post type-post status-publish format-standard has-post-thumbnail hentry category-audio category-boletines category-comunicados category-version-estenografica category-videos"><div class="entry-media"><div class="tw-thumbnail"><img src="https://lopezobrador.org.mx/wp-content/uploads/2023/02/2023-02-15-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-03-400x266.jpg" alt="2023-02-15 Conferencia de prensa matutina - Palacio Nacional - Foto 03"><div class="image-overlay tw-middle"><div class="image-overlay-inner"><a href="https://lopezobrador.org.mx/2023/02/15/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-911/" title="Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador" class="overlay-icon"></a></div></div></div></div>
+<div class="entry-post">
+<div class="entry-cats"><a href="https://lopezobrador.org.mx/secciones/multimedia/audio/" title="View all posts in Audio">Audio</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/boletines/" title="View all posts in Boletines">Boletines</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/comunicados/" title="View all posts in Comunicados">Comunicados</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/multimedia/videos/" title="View all posts in Videos">Videos</a><span>, </span></div><h2 class="entry-title"><a href="https://lopezobrador.org.mx/2023/02/15/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-911/">Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</a></h2><div class="tw-meta"><span class="entry-author">by&nbsp;<a href="https://lopezobrador.org.mx/author/joseraul/" title="Entradas de EDITOR" rel="author">EDITOR</a></span><span class="entry-date"><a href="https://lopezobrador.org.mx/2023/02/15/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-911/">febrero 15, 2023</a></span></div><div class="entry-content clearfix"><p>Buenos días. Ánimo, ánimo. Bueno, pues vamos hoy a tratar dos asuntos: Uno, como todos los miércoles, es el quién es quién en las mentiras, el avance que se tiene en la conexión de [&#8230;] </p>
+</div> </div>
+</article> <article id="post-165192" class="col-md-4 post-165192 post type-post status-publish format-standard has-post-thumbnail hentry category-audio category-boletines category-comunicados category-version-estenografica category-videos"><div class="entry-media"><div class="tw-thumbnail"><img src="https://lopezobrador.org.mx/wp-content/uploads/2023/02/2023-02-14-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-08-1-400x300.jpg" alt="2023-02-14-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-08"><div class="image-overlay tw-middle"><div class="image-overlay-inner"><a href="https://lopezobrador.org.mx/2023/02/14/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-910/" title="Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador" class="overlay-icon"></a></div></div></div></div>
+<div class="entry-post">
+<div class="entry-cats"><a href="https://lopezobrador.org.mx/secciones/multimedia/audio/" title="View all posts in Audio">Audio</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/boletines/" title="View all posts in Boletines">Boletines</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/comunicados/" title="View all posts in Comunicados">Comunicados</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/multimedia/videos/" title="View all posts in Videos">Videos</a><span>, </span></div><h2 class="entry-title"><a href="https://lopezobrador.org.mx/2023/02/14/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-910/">Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</a></h2><div class="tw-meta"><span class="entry-author">by&nbsp;<a href="https://lopezobrador.org.mx/author/joseraul/" title="Entradas de EDITOR" rel="author">EDITOR</a></span><span class="entry-date"><a href="https://lopezobrador.org.mx/2023/02/14/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-910/">febrero 14, 2023</a></span></div><div class="entry-content clearfix"><p>Buenos días. Ánimo, ánimo. Bueno, pues hoy es 14 de febrero, Día de la Amistad. Felicidades a todas, a todos. También es el día de los telegrafistas, y los mandamos felicitar, los que [&#8230;]</p>
+</div> </div>
+</article> <article id="post-165158" class="col-md-4 post-165158 post type-post status-publish format-standard has-post-thumbnail hentry category-audio category-boletines category-comunicados category-version-estenografica category-videos"><div class="entry-media"><div class="tw-thumbnail"><img src="https://lopezobrador.org.mx/wp-content/uploads/2023/02/2023-02-13-Conferencia-de-prensa-matutina-Palacio-Nacional-Foto-12-400x267.jpg" alt="2023-02-13-Conferencia-de-prensa-matutina---Palacio-Nacional---Foto-12"><div class="image-overlay tw-middle"><div class="image-overlay-inner"><a href="https://lopezobrador.org.mx/2023/02/13/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-909/" title="Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador" class="overlay-icon"></a></div></div></div></div>
+<div class="entry-post">
+<div class="entry-cats"><a href="https://lopezobrador.org.mx/secciones/multimedia/audio/" title="View all posts in Audio">Audio</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/boletines/" title="View all posts in Boletines">Boletines</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/comunicados/" title="View all posts in Comunicados">Comunicados</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/multimedia/videos/" title="View all posts in Videos">Videos</a><span>, </span></div><h2 class="entry-title"><a href="https://lopezobrador.org.mx/2023/02/13/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-909/">Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador</a></h2><div class="tw-meta"><span class="entry-author">by&nbsp;<a href="https://lopezobrador.org.mx/author/joseraul/" title="Entradas de EDITOR" rel="author">EDITOR</a></span><span class="entry-date"><a href="https://lopezobrador.org.mx/2023/02/13/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-909/">febrero 13, 2023</a></span></div><div class="entry-content clearfix"><p>Buenos días. Ánimo, estamos comenzando la semana y nos va a ir muy bien a todas, a todos. Hay que tener mucha fe. Bueno, pues vamos a informar. Primero, como siempre, el quién [&#8230;]</p>
+</div> </div>
+</article> <article id="post-165085" class="col-md-4 post-165085 post type-post status-publish format-standard has-post-thumbnail hentry category-audio category-boletines category-comunicados category-version-estenografica category-videos"><div class="entry-media"><div class="tw-thumbnail"><img src="https://lopezobrador.org.mx/wp-content/uploads/2023/02/2023-02-11-Presidente-AMLO-Condecoracion-Orden-Mexicana-del-Aguila-Azteca-al-presidente-de-Cuba-Campeche-Foto-10-400x266.jpg" alt="2023-02-11 Presidente AMLO - Condecoracion Orden Mexicana del Aguila Azteca al presidente de Cuba - Campeche - Foto 10"><div class="image-overlay tw-middle"><div class="image-overlay-inner"><a href="https://lopezobrador.org.mx/2023/02/11/version-estenografica-entrega-de-condecoracion-orden-mexicana-del-aguila-azteca-al-presidente-de-cuba-miguel-diaz-canel/" title="Versión estenográfica. Entrega de Condecoración Orden Mexicana del Águila Azteca al presidente de Cuba, Miguel Díaz-Canel" class="overlay-icon"></a></div></div></div></div>
+<div class="entry-post">
+<div class="entry-cats"><a href="https://lopezobrador.org.mx/secciones/multimedia/audio/" title="View all posts in Audio">Audio</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/boletines/" title="View all posts in Boletines">Boletines</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/comunicados/" title="View all posts in Comunicados">Comunicados</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/version-estenografica/" title="View all posts in Versión Estenográfica">Versión Estenográfica</a><span>, </span><a href="https://lopezobrador.org.mx/secciones/multimedia/videos/" title="View all posts in Videos">Videos</a><span>, </span></div><h2 class="entry-title"><a href="https://lopezobrador.org.mx/2023/02/11/version-estenografica-entrega-de-condecoracion-orden-mexicana-del-aguila-azteca-al-presidente-de-cuba-miguel-diaz-canel/">Versión estenográfica. Entrega de Condecoración Orden Mexicana del Águila Azteca al presidente de Cuba, Miguel Díaz-Canel</a></h2><div class="tw-meta"><span class="entry-author">by&nbsp;<a href="https://lopezobrador.org.mx/author/joseraul/" title="Entradas de EDITOR" rel="author">EDITOR</a></span><span class="entry-date"><a href="https://lopezobrador.org.mx/2023/02/11/version-estenografica-entrega-de-condecoracion-orden-mexicana-del-aguila-azteca-al-presidente-de-cuba-miguel-diaz-canel/">febrero 11, 2023</a></span></div><div class="entry-content clearfix"><p>Amigas, amigos: Quiero agregar una posdata a los considerandos del acuerdo para entregar la condecoración del Águila Azteca al presidente de Cuba, Miguel Díaz-Canel. Como sabemos, [&#8230;]</p>
+</div> </div>
+</article></div></div><div class='tw-pagination'><ul class='page-numbers'>
+<li><span aria-current="page" class="page-numbers current">1</span></li>
+<li><a class="page-numbers" href="https://lopezobrador.org.mx/transcripciones/page/2/">2</a></li>
+<li><a class="page-numbers" href="https://lopezobrador.org.mx/transcripciones/page/3/">3</a></li>
+<li><a class="page-numbers" href="https://lopezobrador.org.mx/transcripciones/page/4/">4</a></li>
+<li><a class="page-numbers" href="https://lopezobrador.org.mx/transcripciones/page/5/">5</a></li>
+<li><a class="page-numbers" href="https://lopezobrador.org.mx/transcripciones/page/6/">6</a></li>
+<li><a class="page-numbers" href="https://lopezobrador.org.mx/transcripciones/page/7/">7</a></li>
+<li><span class="page-numbers dots">&hellip;</span></li>
+<li><a class="page-numbers" href="https://lopezobrador.org.mx/transcripciones/page/302/">302</a></li>
+<li><a class="page-numbers" href="https://lopezobrador.org.mx/transcripciones/page/303/">303</a></li>
+<li><a class="page-numbers" href="https://lopezobrador.org.mx/transcripciones/page/304/">304</a></li>
+<li><a class="next page-numbers" href="https://lopezobrador.org.mx/transcripciones/page/2/">Next<i class="ion-chevron-right"></i></a></li>
+</ul>
+</div></div>
+</div>
+</div>
+</div>
+
+<footer class="footer-area">
+
+<div class="container">
+<div class="tw-footer clearfix" style="text-align: center; ">
+<img src="https://lopezobrador.org.mx/wp-content/uploads/2018/03/morena_logo1-300x80.png" style="width: 100%; max-width: 150px">
+<div class="footer-menu"><ul id="menu-footeramlo" class=""><li id="menu-item-149036" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-149036"><a href="https://lopezobrador.org.mx/cuarto-informe-de-gobierno/">CUARTO INFORME DE GOBIERNO</a></li>
+<li id="menu-item-149033" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-149033"><a href="https://lopezobrador.org.mx/secciones/comunicados/">SALA DE PRENSA</a></li>
+<li id="menu-item-149034" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-149034"><a href="https://lopezobrador.org.mx/gabinete-2018-2024/">GABINETE</a></li>
+</ul></div><p class="copyright">&copy; Copyright Derechos Reservados 2011-2020 -<a href=""> Sitio Oficial de Andrés Manuel López Obrador</a>. </p> </div>
+</div>
+
+</footer>
+</div>
+<div class="scrollUp"><a class="scrollUp-child" href="#"><i class="ion-ios-arrow-up"></i></a></div>
+<script type='text/javascript' src='https://lopezobrador.org.mx/wp-content/themes/ever/assets/js/scripts.js?ver=5.8.1' id='ever-scripts-js'></script>
+<script type='text/javascript' src='https://lopezobrador.org.mx/wp-includes/js/wp-embed.min.js?ver=5.8.1' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://lopezobrador.org.mx/wp-content/themes/ever/assets/js/jquery.waves-isotope.min.js?ver=5.8.1' id='ever-isotope-js'></script>
+<script type="text/javascript">
+
+(function($) {
+ 
+	// Ahora puedes usar $. Puedes comprobarlo usando la siguiente línea:
+	// console.log($);
+        // Recuerda que solo puedes usar $ DENTRO de esta función.
+ 
+$(".next span:first" ).text("Ver Más");
+
+$(".next-post-link span:first" ).text("Siguiente");
+$(".prev-post-link span:first" ).text("Anterior");
+
+
+$(".entry-share span:first" ).text("Compartir en Facebook");
+$(".entry-share span:last" ).text("Compartir en Twitter");
+
+$(".older span:first" ).text("Ver más");
+$(".newer span:first" ).text("Anterior");
+$('.entry-cats').html('');
+$('.entry-cats').text('');
+
+})( jQuery );
+
+
+	
+
+
+</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'79b0c9369c702845',m:'VaHKoxjMdFjhyq84e3DO6ZCjGxKh6fIh2WRftQkpI74-1676660637-0-AfRyjnWSI1fESuAZ5H/LSHGn/DI+GBOKa1j1NkmthxodMz9/CFYmJm/IYfWRwktng+lR/tZr+RKm1gL7AK2j+goibbICghSQUcsWOHkB40kWw7Oepj1AwNr2phSPUR7AO/ev8FDYUYJK1Q7q+vOeWJc=',s:[0xccb40330ff,0x261f3a7f82],u:'/cdn-cgi/challenge-platform/h/g'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/g/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>
