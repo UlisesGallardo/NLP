@@ -1,0 +1,4 @@
+[CLS] this is the first sentence . [SEP]
+[CLS] another sentence for training . [SEP]
+[CLS] yet another sentence to simulate training . [SEP]
+[CLS] one more sentence to complete the training data . [SEP]
